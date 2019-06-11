@@ -10,6 +10,7 @@ public class AopApplication {
         System.out.println("测试提交11111111");
         System.out.println("222222");
         System.out.println("333333");
+        System.out.println("5555");
         SpringApplication.run(AopApplication.class, args);
     }
 
