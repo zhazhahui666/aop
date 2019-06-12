@@ -11,6 +11,8 @@ public class AopApplication {
         System.out.println("222222");
         System.out.println("333333");
         System.out.println("5555");
+        System.out.println("6666");
+        System.out.println("7777");
         SpringApplication.run(AopApplication.class, args);
     }
 
